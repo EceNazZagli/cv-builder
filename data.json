@@ -1,0 +1,49 @@
+{
+  "personalInfo": {
+    "name": "John Doe",
+    "title": "Web Developer",
+    "email": "john.doe@example.com",
+    "phone": "+1 123-456-7890",
+    "linkedin": "linkedin.com/in/johndoe",
+    "github": "github.com/johndoe",
+    "location": "New York, NY"
+  },
+  "workExperience": [
+    {
+      "company": "Tech Innovations Inc.",
+      "position": "Senior Web Developer",
+      "startDate": "2018-01-01",
+      "endDate": "2023-12-31",
+      "description": "Developed and maintained web applications using React, Node.js, and PostgreSQL. Led a team of 5 developers."
+    },
+    {
+      "company": "Web Solutions Co.",
+      "position": "Junior Web Developer",
+      "startDate": "2016-01-01",
+      "endDate": "2017-12-31",
+      "description": "Assisted in the development of websites using HTML, CSS, and JavaScript."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "University of Technology",
+      "startDate": "2012-09-01",
+      "endDate": "2016-06-30"
+    }
+  ],
+  "technicalSkills": ["JavaScript", "React", "Node.js", "HTML", "CSS", "Git", "SQL"],
+  "softSkills": ["Communication", "Teamwork", "Problem Solving", "Time Management"],
+  "projects": [
+    {
+      "name": "E-commerce Website",
+      "description": "Developed a fully functional e-commerce website using React and Redux.",
+      "technologies": ["React", "Redux", "Node.js", "Express"]
+    },
+    {
+       "name": "Personal Portfolio",
+       "description": "Created a personal portfolio website to showcase my skills and projects.",
+       "technologies": ["HTML", "CSS", "JavaScript"]
+    }
+  ]
+}
